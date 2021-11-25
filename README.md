@@ -1,5 +1,5 @@
 ![](res/Title.png)
-# Building logging system in Microservice Architecture (MSA)
+## Building logging system in Microservice Architecture (MSA)
 
 A good and meaningful logging system in Microservices Architecture (MSA) is crucial for tracing failures. Because without it, our system will lost control. We would know that something is wrong or broken, but be unable to figure out exactly what, or at least not be able to do that without spending a lot of time searching for the problem. This wasted time can always be spent in better, more productive way. Do you agree?
 
